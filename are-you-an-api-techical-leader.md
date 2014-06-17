@@ -1,5 +1,5 @@
 
-# Application Programming Interface Technical Leadership Survey - a.k.a APIGeek
+# Application Programming Interface Technical Leadership Survey - a.k.a APIGeek Quiz
 
 Are you are a technical leader or API evangelist looking to make a huge impact?  
 
@@ -11,15 +11,24 @@ and we should talk more.
 
 Here is our idea of someone who be the ideal APIGeek
 
-## APIGeek required experiences :
+## Required characteristics and experience :
 
 - Solid experience with RESTful service design and development
   
-  *Solid* means you've spent at least a decade *designing* and *coding* apis 
-  between multiple complex systems.  Naturally, during this journey you surely would have spent 
+  *Solid* means you've made notable achievements *designing* and *coding* apis (REST, SOAP, etc.)
+  between multiple *complex* systems.  Naturally, during this journey you surely would have spent 
   years of your life in *writing* and *reading* API specifications.  
+
+  *Designing* APIs means you've authoring one or more of these specifications yourself.  So you should have a 
+  good command of the syntax and general preciples.  In addtion, you've used and coded tooling to 
+  integrate the processing of these SPECs into your development workflow.
+
+  *Coding* means those SPECs where then turned into working software that drove business value.  Your solid experience
+  means you most likely played the leadership role in making this happen.
   
-  If this is the case I'd expect a near expert level knowledge of the folliwng of one, preferably more
+  *Solid* means your API designs have been implemented by a team of rock star developers at a rapid pace.
+
+  If this is the case I'd expect a near good command and knowledge of one or more
   of the following:
   
   * API Blueprint - http://apiblueprint.org/
@@ -27,26 +36,24 @@ Here is our idea of someone who be the ideal APIGeek
   * RAML - http://raml.org/
   * WADL - https://wadl.java.net/
 
-  
-  *Designing* APIs means you've authoring one or more of these specifications by hand.  So you should have a 
-  good command of the syntax and general preciples.  In addtion, you've used and coded tools to 
-  integrate the processing of these SPECs into your development workflow.
 
-  *Coding* means those SPECs where then turned into software that drove business value.  Your solid experience
-  means you most likely played the Protagonist role in making this happen.  (Pun)
-  
-  *Solid* means your API designs have been implemented by a team of rock star developers at a rapid pace.
+## Question 0: Describe of the APIs you've designed and what it does?  
+
+```
+Please Note:
+
+"Question 0" denotes that you get even a small portion of what we've about to get into.  Consider these small talk 
+before the major inquisition.
+```
 
  
-## Question 0: Describe of the APIs you've designed and what it does?  
-  
 - Solid experience with Javascript, specifically Node.js.
  
-  *Solid* means you've spent at least a decade *coding* JavaScript.
+  *Solid* means you've got major skills with the good and bad parts of JavaScript.
 
 ## Question 0: Explain why JavaScript sucks.
 
-## Question 0: Who is Ryan Dahl?  Why?
+## Question 0 Bonus: Who is Ryan Dahl?  Why did he do it?
 
 - Solid experience with web technology -- specifically request/response protocols/payloads.
 
@@ -58,9 +65,11 @@ Here is our idea of someone who be the ideal APIGeek
 
 - Experience using SoapUI, JUnit, and JMeter for testing.
 
+## Question 0: What's the craziest thing you've with JMeter.
 
 - Experience working in a fast-paced, Agile (Scrum) development environment.
 
+## Question 0: What's your teams veolicy in story points? 
 
 
 # Preferred but not required:
@@ -71,11 +80,11 @@ Here is our idea of someone who be the ideal APIGeek
   to very precisely craft complex API proxy polices for consumption by developers.
   
 
-## Question 0: How one may use an API Gateway?
+## Question 0: How would one may use an API Gateway?  What is it's purpose?
 
 - Experience with Continuous Integration tools preferably Jenkins.
 
-## Question 0: How one may use an API Gateway?
+## Question 0: Explain what the most complicated Jenkins job you have set up does?
 
 
 - Experience with Source Code Management preferably Git.
@@ -84,31 +93,38 @@ Here is our idea of someone who be the ideal APIGeek
 
 - Experience with Configuration Management preferably Maven.
 
-## Question 0: How you used Maven in the past.  
-## Question 0: What is POM?
+## Question 0: How you used Maven in the past?  What are some of your most indisepsible plugins?
+
+## Question 0: What is a POM file do?
 > POM stands for Project Object Model. It is fundamental Unit of Work in Maven. It is an XML file. It always resides in the base directory of the project as pom.xml. It contains information about the project and various configuration details used by Maven to build the project(s).
 
 ## Question 0: What information does POM contain?
+
 > POM contains the some of the following configuration information:
-  project dependencies
-  plugins
-  goals
-  build profiles
-  project version
-  developers
-  mailing list
-
-
+ * project dependencies
+ * plugins
+ * goals
+ * build profiles
+ * project version
+ * developers
+ * mailing list
 
 - Scrum master experience.
 
+## Question 0: What makes a good scrum master?
 
 ## Question 0: Your team is ready to plan (sprint plan) for work on Wednesday, but the requirements (stories) aren’t ready yet. – What type of planning would you do? / How would you lead your team to be ready to start developing on Wednesday?
 
 
 - Ecommerce industry experience.
 
-# Key responsibilities include:
+## Question 0: Have you ever been part of a PCI audit?
+
+
+# APIGeeks are asked to do a huge amount of work. Key responsibilities include:
+
+
+
 API specification development -- payload/interface design, error/exception handling, security, performance, research existing back-end services.
 
 API user story elaboration, task definition, categorization, assignment, estimation and scheduling.
@@ -118,8 +134,6 @@ Work with QA team members, API product owner(s), and security analysts.
 Review and contribute to API and development process documentation. 
 Research/assign/resolve production and development defects.
 
-
-
 # API Technical Leader Interview Questions
 
 # Topic 1. :  Solid experience with RESTful service design and development is required for this position.  This demands a strong grasp of API terminology and nomenclature.  
@@ -127,26 +141,25 @@ Research/assign/resolve production and development defects.
 API Lingo - source apiglossary.com
 Please define the following Terms:
 
-## Question 1: Header
+## Question 1: What is a Header?
 > A header is what's sent before the body of an HTTP request or response.
 
-
-## Question 2: HATEOAS
+## Question 2: What does HATEOAS stand for?
 > Hypermedia as the Engine of Application State is feature of the REST architecture allowing the client to navigate through hypermedia exposed by the API.
 
-## Question 3: OAuth
+## Question 3: Explain OAuth?
 > Open standard authorization framework. Grants access on behalf of an end-user without directly sharing credentials.
 
-## Question 4: Rate-Limiting
+## Question 4: Why would I apply Rate-Limiting on an API.
 > Limiting the consumption of an API to a certain number of requests per period of time.
 
-## Question 5: Resource
+## Question 5: What is an API Resource?
 > A resource is some object or entitity that has a URI where it can be manuiplulated through HTTP requests.
 
-## Question 6: Status Code
+## Question 6: How do I use Status Codes?
 > HTTP status codes are what the server sends back to the client with the response in regards to the status of the request.
 
-## Question 6 (Bonus): Define 200, 201, 302, 400, 401  
+## Question 6 (Bonus): Define the following status codes: 200, 201, 302, 400, 401  
 
 > 200 OK The request has succeeded.
 
@@ -158,12 +171,12 @@ Please define the following Terms:
 
 > 401 Unauthorized - The request requires user authentication.
 
-## Question 7: Media Type
+## Question 7: What is a Media Type used for?
 > Identifier used to indicate the type of data that a file contains.
 
 
-# Topic 2. : APRESTful service design expertise
-The L.L.Bean API Teams primary responsibility is to provide consistent information resource to it’s consumer apps.  This requires APIs originally designed by various team must be represented is a cohesive, consumable and developer friendly manner.  
+# Topic 2. : RESTful API service design expertise
+The API Teams primary responsibility is to provide consistent information resource to it’s consumer apps.  This requires APIs originally designed by various team must be represented is a cohesive, consumable and developer friendly manner.  
 
 Common tooling we use for describing API’s include:
 - API Blueprint: http://apiblueprint.org/
@@ -194,7 +207,7 @@ API Blueprint Questions
 #%RAML 0.8
  
 title: Hello World API
-baseUri: http://api.llbean.com/{version}
+baseUri: http://api.mydomain.com/{version}
 version: v1
 /message:
    description: Retrieve a specific book title
@@ -216,7 +229,7 @@ version: v1
 {
   "apiVersion": "1.0",
   "swaggerVersion": "1.2",
-  "basePath": "http://api.llbean.com",
+  "basePath": "http://api.mydomain.com",
   "resourcePath": "/v1",
   "produces": [
     "application/json"
@@ -276,15 +289,15 @@ Response returned if the update operation was not successful. It specifies that 
 ```
 
 FORMAT: 1A
-HOST: https://api.llbean.com
+HOST: https://api.mydomain.com
 
-# LLBean My Account API
+# User Account API
 
 ## Summary
-The L.L.Bean My Account API allows developers to manage resources directly associated to a user account. It first requires authentication with login resource to establish a cookie-based session, which then enables subsequent calls to access resources such as change of the secret question, password, payment methods (coupons, credit cards, etc.), and email preferences. 
+The User Account API allows developers to manage resources directly associated to a user account. It first requires authentication with login resource to establish a session, which then enables subsequent calls to access resources such as change of the secret question, password, payment methods (coupons, credit cards, etc.), and email preferences. 
 
 
-# Group My Account Login Resources
+# Group User Login Resources
 
 ## Login [/v1/account/login]
 Authenticates a user given a login id and password, the response will grant access to other protected resources, returning a cookie-based session that can be leveraged from subsequent calls.
@@ -345,7 +358,7 @@ Establishes a session to access my account resources.
                         "rel": [
                             "self"
                         ],
-                        "href": "https://api.llbean.com_TODO/v1/account/login"
+                        "href": "https://api.mydomain.com/v1/account/login"
                     }
                 ]
             }
@@ -369,7 +382,7 @@ Establishes a session to access my account resources.
                 "fault": {
                     "detail": {
                         "errorcode": "401",
-                        "href": "https://developer.llbean.com/errors/LLB-0401",
+                        "href": "https://developer.mydomain.com/errors/LLB-0401",
                         "message": "The password you entered is incorrect. Please note that passwords are case sensitive."
                     },
                 }
@@ -419,7 +432,7 @@ Method Not Found
                 "faultstring": "Method not found. Only POST method allowed.",
                 "detail":  {
                   "message": "Method not found.",
-                  "href": "http://developer.llbean.com/api-errors#my-account-api-403-method-not-found",
+                  "href": "http://developer.mydomain.com/api-errors#my-account-api-403-method-not-found",
                   "errorcode": "403"
                 }
               }
@@ -468,7 +481,7 @@ Internal Server Error
               "fault":  {
                 "faultstring": "Internal Server Error Occurred",
                 "detail":  {
-                  "href":"http://developer.llbean.com/api-errors#my-account-api-500-error",
+                  "href":"http://developer.mydomain.com/api-errors#my-account-api-500-error",
                   "errorcode": "500"
                 }
               }
@@ -531,7 +544,7 @@ curl --request POST \
     "fault": {
         "detail": {
             "errorcode": "401",
-            "href": "https://developer.llbean.com/errors/LLB-0401",
+            "href": "https://developer.mydomain.com/errors/LLB-0401",
             "message": "The password you entered is incorrect. Please note that passwords are case sensitive."
         },
     }
