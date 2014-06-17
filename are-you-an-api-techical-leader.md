@@ -80,7 +80,7 @@ before the major inquisition.
   to very precisely craft complex API proxy polices for consumption by developers.
   
 
-## Question 0: How would one may use an API Gateway?  What is it's purpose?
+## Question 0: How would one may use an API Gateway?
 
 - Experience with Continuous Integration tools preferably Jenkins.
 
