@@ -65,7 +65,7 @@ before the major inquisition.
 
 - Experience using SoapUI, JUnit, and JMeter for testing.
 
-## Question 0: What's the craziest thing you've with JMeter.
+## Question 0: What's the craziest thing you've with JMeter?
 
 - Experience working in a fast-paced, Agile (Scrum) development environment.
 
