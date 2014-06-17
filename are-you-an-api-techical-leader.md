@@ -70,8 +70,13 @@ Here is our idea of someone who be the ideal APIGeek
   the APIs built by his team, vendors and development partners.  It's likely that the APIGeek has been required 
   to very precisely craft complex API proxy polices for consumption by developers.
   
-  
+
+## Question 0: How one may use an API Gateway?
+
 - Experience with Continuous Integration tools preferably Jenkins.
+
+## Question 0: How one may use an API Gateway?
+
 
 - Experience with Source Code Management preferably Git.
 
@@ -79,7 +84,27 @@ Here is our idea of someone who be the ideal APIGeek
 
 - Experience with Configuration Management preferably Maven.
 
+## Question 0: How you used Maven in the past.  
+## Question 0: What is POM?
+> POM stands for Project Object Model. It is fundamental Unit of Work in Maven. It is an XML file. It always resides in the base directory of the project as pom.xml. It contains information about the project and various configuration details used by Maven to build the project(s).
+
+## Question 0: What information does POM contain?
+> POM contains the some of the following configuration information:
+  project dependencies
+  plugins
+  goals
+  build profiles
+  project version
+  developers
+  mailing list
+
+
+
 - Scrum master experience.
+
+
+## Question 0: Your team is ready to plan (sprint plan) for work on Wednesday, but the requirements (stories) aren’t ready yet. – What type of planning would you do? / How would you lead your team to be ready to start developing on Wednesday?
+
 
 - Ecommerce industry experience.
 
