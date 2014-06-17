@@ -15,41 +15,70 @@ Here is our idea of someone who be the ideal APIGeek
 
 - Solid experience with RESTful service design and development
   
-  "Solid" means you've spent at least a decade either "designing" and "coding" apis 
+  *Solid* means you've spent at least a decade *designing* and *coding* apis 
   between multiple complex systems.  Naturally, during this journey you surely would have spent 
   years of your life in *writing* and *reading* API specifications.  
   
   If this is the case I'd expect a near expert level knowledge of the folliwng of one, preferably more
   of the following:
   
-  API Blueprint - http://apiblueprint.org/
-  Swagger - https://helloreverb.com/developers/swagger
-  RAML - http://raml.org/
-  WADL - https://wadl.java.net/
+  * API Blueprint - http://apiblueprint.org/
+  * Swagger - https://helloreverb.com/developers/swagger
+  * RAML - http://raml.org/
+  * WADL - https://wadl.java.net/
 
   
-  Designing APIs requires authoring one or more of these specifications by hand.  So yo should have a 
-  good command of the syntax.  In addtion, you've used and written tools to integrate the processing
-  of these SPECs into your development workflow.
-  
-  "Solid" means your API designs have been implemented by a team of rock star developers at a rapid pace.
-  
-  API Developers are a very rare compostion of precision and pragmatism.  Technical leading a crew of 
-  talented API Developers takes a true [Protagonist](http://en.wikipedia.org/wiki/Protagonist).
+  *Designing* APIs means you've authoring one or more of these specifications by hand.  So you should have a 
+  good command of the syntax and general preciples.  In addtion, you've used and coded tools to 
+  integrate the processing of these SPECs into your development workflow.
 
+  *Coding* means those SPECs where then turned into software that drove business value.  Your solid experience
+  means you most likely played the Protagonist role in making this happen.  (Pun)
+  
+  *Solid* means your API designs have been implemented by a team of rock star developers at a rapid pace.
 
+ 
+## Question 0: Describe of the APIs you've designed and what it does?  
+  
 - Solid experience with Javascript, specifically Node.js.
+ 
+  *Solid* means you've spent at least a decade *coding* JavaScript.
+
+## Question 0: Explain why JavaScript sucks.
+
+## Question 0: Who is Ryan Dahl?  Why?
+
 - Solid experience with web technology -- specifically request/response protocols/payloads.
+
+## Question 0: What does HATEOAS stand for?  What is Hypermedia?
+
 - Solid experience developing JSON and XML schemas.
+
+## Question 0: Explain what the "type" keyword is used for?
+
 - Experience using SoapUI, JUnit, and JMeter for testing.
+
+
 - Experience working in a fast-paced, Agile (Scrum) development environment.
+
+
 
 # Preferred but not required:
 - API gateway experience (Apigee preferred, Mashery, Layer7, IBM CastIron acceptable).
+  
+  The API Gateway proxy is a indispensable tool for the APIGeek to manage his universe of APIs.  This include
+  the APIs built by his team, vendors and development partners.  It's likely that the APIGeek has been required 
+  to very precisely craft complex API proxy polices for consumption by developers.
+  
+  
 - Experience with Continuous Integration tools preferably Jenkins.
+
 - Experience with Source Code Management preferably Git.
+
 - Experience with Configuration Management preferably Maven.
+
 - Scrum master experience.
+
 - Ecommerce industry experience.
 
 # Key responsibilities include:
