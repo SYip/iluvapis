@@ -75,6 +75,8 @@ Here is our idea of someone who be the ideal APIGeek
 
 - Experience with Source Code Management preferably Git.
 
+## Question 0: Describe the Fork & pull model?
+
 - Experience with Configuration Management preferably Maven.
 
 - Scrum master experience.
