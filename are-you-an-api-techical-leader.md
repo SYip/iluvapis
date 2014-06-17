@@ -1,5 +1,5 @@
 
-# Application Programming Interface Technical Leadership Survey - a.k.a APIGeek Quiz
+# Application Programming Interface Technical Leadership Survey - a.k.a. APIGeek Quiz
 
 Are you are a technical leader or API evangelist looking to make a huge impact?  
 
